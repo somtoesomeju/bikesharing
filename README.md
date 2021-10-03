@@ -17,5 +17,6 @@ A link to my visualization story is seen [here](https://public.tableau.com/app/p
 
 - Majority of riders are on the road on Thursdays. The reason why is unknown.
 
+In conclusion, the visualizations certainly paint a picture, that there are a lot of people using bicycles on the streets. A bike-sharing app would be a great idea as it would help riders know the next available bike-sharing station closest to them. This would make it easier for users to plan out their daily commutes through the city.
 
 
